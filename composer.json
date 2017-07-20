@@ -7,6 +7,11 @@
             "email": "bhalsodkhushalce@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Bhalsodkhushal\\Datetimezones\\": "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
