@@ -1,10 +1,10 @@
 {
-    "name": "laraveldaily/timezones",
+    "name": "bhalsodkhushal/datetimezones",
     "description": "Demo-package to show time",
     "authors": [
         {
             "name": "Khushal Bhalsod",
-            "email": "khushal@yugtia.com"
+            "email": "bhalsodkhushalce@gmail.com"
         }
     ],
     "minimum-stability": "dev",
